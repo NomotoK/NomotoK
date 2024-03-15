@@ -4,7 +4,7 @@
 <img src="https://github.com/NomotoK/NomotoK/assets/99944622/8cbedbd4-3cee-4b89-b1f4-0cab60f78873" alt="thumb" style="vertical-align:top; margin:4px">
 </p>
 
-## 熟练掌握的
+## 熟练掌握的：
 <p align="center">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" style="vertical-align:top; margin:4px">
@@ -21,16 +21,20 @@
 </p>
 
 
-## 会一点的
+## 会一点的：
 <p align="center">
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align:top; margin:4px">
 </p>
 
 
-## 学了但是搞忘的
+## 学了但是搞忘的：
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:top; margin:4px">
@@ -52,7 +56,7 @@
 </p>
 
 
-## 听过但是不会的
+## 听过但是不会的：
 <p align="center">
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="vertical-align:top; margin:4px">
