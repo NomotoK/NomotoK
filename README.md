@@ -4,6 +4,9 @@
 <img src="https://github.com/NomotoK/NomotoK/assets/99944622/8cbedbd4-3cee-4b89-b1f4-0cab60f78873" alt="thumb" style="vertical-align:top; margin:4px">
 </p>
 
+</br>
+
+
 ## 熟练掌握的：
 <p align="center">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="vertical-align:top; margin:4px">
