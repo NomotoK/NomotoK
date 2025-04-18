@@ -1,12 +1,11 @@
-# 欢迎来到我的主页
-
-<p align="center">
-<img src="https://github.com/NomotoK/NomotoK/assets/99944622/8cbedbd4-3cee-4b89-b1f4-0cab60f78873" alt="thumb" style="vertical-align:top; margin:1px">
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=NomotoK&show_icons=true&hide_title=true&hide_border=true" style="vertical-align:top; margin:1px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomotoK&show_icons=true&hide_title=true&hide_border=true&layout=compact&langs_count=6" style="vertical-align:top; margin:1px">
+<img src="https://github.com/NomotoK/NomotoK/assets/99944622/8cbedbd4-3cee-4b89-b1f4-0cab60f78873" width = "200" alt="thumb" style="vertical-align:top; margin:1px">
 </p>
 
-
-## 熟练掌握的：
-<p align="center">
+## Skills that I mastered 👾：
+<p align="left">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" style="vertical-align:top; margin:4px">
@@ -21,12 +20,12 @@
   <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" style="vertical-align:top; margin:4px">
 </p>
 
+<br><br>
 
-
-## 听都没听过的：
+## Things I've never heard of 👨‍💻：
 <p align="center">
 
-   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="vertical-align:top; margin:4px">
