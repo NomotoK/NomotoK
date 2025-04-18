@@ -3,7 +3,7 @@
 <img src="https://github.com/NomotoK/NomotoK/assets/99944622/8cbedbd4-3cee-4b89-b1f4-0cab60f78873" width = "100" alt="thumb" style="vertical-align:top; margin:1px">
 </p>
 
-- 👨‍💻 Connect with me via LinkedIn [Hailin Xie](https://www.linkedin.com/in/hailin-xie-937a24323)
+- 👨‍💻 Connect with me via [LinkedIn](https://www.linkedin.com/in/hailin-xie-937a24323)
 
 - 📫 My email **hx101@duke.edu**
 
