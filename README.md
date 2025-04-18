@@ -1,6 +1,6 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=NomotoK&show_icons=true&hide_title=true&hide_border=true" style="vertical-align:top; margin:1px">
-<img src="https://github.com/NomotoK/NomotoK/assets/99944622/8cbedbd4-3cee-4b89-b1f4-0cab60f78873" width = "200" alt="thumb" style="vertical-align:top; margin:1px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomotoK&show_icons=true&hide_title=true&hide_border=true&layout=compact&langs_count=6" style="vertical-align:top; margin:1px">
 </p>
 
 <picture>
@@ -12,7 +12,7 @@
 <br><br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomotoK&show_icons=true&hide_title=true&hide_border=true&layout=compact&langs_count=6" style="vertical-align:top; margin:1px">
+<img src="https://github.com/NomotoK/NomotoK/assets/99944622/8cbedbd4-3cee-4b89-b1f4-0cab60f78873" width = "200" alt="thumb" style="vertical-align:top; margin:1px">
 </p>
 
 ## Skills that I mastered 👾：
