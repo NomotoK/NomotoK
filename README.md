@@ -1,8 +1,13 @@
 <h1 align="center">Hi there👋</h1>
 
+<p align="left">
 - 👨‍💻 My LinkedIn [Hailin Xie](https://www.linkedin.com/in/hailin-xie-937a24323)
 
 - 📫 My Email **hx101@duke.edu**
+<img src="https://github.com/NomotoK/NomotoK/assets/99944622/8cbedbd4-3cee-4b89-b1f4-0cab60f78873" width = "100" alt="thumb" style="vertical-align:top; margin:1px">
+</p>
+
+
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=NomotoK&show_icons=true&hide_title=true&hide_border=true" style="vertical-align:top; margin:1px">
@@ -16,10 +21,6 @@
 </picture>
 
 <br><br>
-
-<p align="center">
-<img src="https://github.com/NomotoK/NomotoK/assets/99944622/8cbedbd4-3cee-4b89-b1f4-0cab60f78873" width = "200" alt="thumb" style="vertical-align:top; margin:1px">
-</p>
 
 ## Skills I mastered 👾：
 <p align="left">
