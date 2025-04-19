@@ -1,7 +1,16 @@
 <h1 align="center">Hi there👋</h1>
 <p align="center">
 <img src="https://github.com/NomotoK/NomotoK/assets/99944622/8cbedbd4-3cee-4b89-b1f4-0cab60f78873" width = "100" alt="thumb" style="vertical-align:top; margin:1px">
+
+  
+一位苏联程序员收到了一封来自克格勃的信，警告他停止编写一个名为"真理"的人工智能程序。
+程序员去找勃列日涅夫申诉："总书记同志，我的软件只是用来分析数据的，为什么要禁止它？"
+勃列日涅夫摘下厚厚的眉毛眼镜，慢悠悠地说："因为在苏联，真理只有一个版本，不需要分析。而且你的软件有两个致命错误：一是它能发现计划经济的漏洞，二是它预测我的讲话会持续到下一次五年计划结束。"
+
+程序员回家后，人工智能问他："在苏联，是人民控制计算机，还是计算机控制人民？"
+程序员紧张地环顾四周，压低声音说："同志，在这里，是bug控制我们所有人。就像计划经济一样，最终运行结果永远和预期不符。不同的是，我们至少可以重启计算机。"
 </p>
+
 
 - 👨‍💻 Connect with me via [LinkedIn](https://www.linkedin.com/in/hailin-xie-937a24323)
 
