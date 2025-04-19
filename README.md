@@ -16,7 +16,7 @@
 
 - 👨‍💻 Connect with me via [LinkedIn](https://www.linkedin.com/in/hailin-xie-937a24323)
 
-- 📫 My email **hx101@duke.edu**
+- 📫 Email me on **hx101@duke.edu**
 
 
 <p align="left">
