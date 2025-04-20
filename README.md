@@ -31,7 +31,7 @@
 </picture>
 
 
-## Skills I mastered 👾：
+## 👾：
 <p align="left">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" style="vertical-align:top; margin:4px">
@@ -49,7 +49,7 @@
 
 <br><br>
 
-## Things I code with 👨‍💻：
+## 👨‍💻：
 <p align="left">
 
  <!--<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="vertical-align:top; margin:4px">-->
